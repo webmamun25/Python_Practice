@@ -1,0 +1,10 @@
+John.Doe@Gmail.com,
+    mary.smith@yahoo.com,
+    ADMIN@company.com,
+    user123@outlook.com,
+    john.doe@gmail.com,   
+    HELLO@Example.org,
+    mary.SMITH@yahoo.com, 
+    support@MYDOMAIN.COM,
+    info@school.edu,
+    User123@outlook.com   

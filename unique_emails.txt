@@ -1,0 +1,7 @@
+admin@company.com
+hello@example.org
+info@school.edu
+john.doe@gmail.com
+mary.smith@yahoo.com
+support@mydomain.com
+user123@outlook.com
